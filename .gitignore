@@ -1,0 +1,13 @@
+# Compiled C programs
+*.out
+*.exe
+*.o
+
+# Debug files
+*.dSYM/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
